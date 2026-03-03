@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WorkshopMatrices.Backend/WorkshopMatrices.Backend.csproj" Id="6d4a42ea-6043-4327-8f09-8f0d11f221a8" />
+  <Project Path="WorkshopMatrices.Frontend/WorkshopMatrices.Frontend.csproj" Id="a69e3514-2674-4cab-9135-50b9f62c627f" />
+</Solution>
